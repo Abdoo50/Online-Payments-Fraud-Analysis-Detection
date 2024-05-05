@@ -1,4 +1,9 @@
 # Online Payments Fraud Analysis & Detection
+<h1 align="center">Online Payments Fraud Analysis-Detection</h1>
+
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4E12AQHV8IvSlfjcgg/article-cover_image-shrink_720_1280/0/1699955376118?e=1716422400&v=beta&t=IS3H1SA8yTw2CXDGdQ-pPESrqceB_Y82CnMyp2VUctk">
+</p>
 
 ## Project Overview
 
